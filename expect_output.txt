@@ -1,0 +1,25 @@
+Green Tea (100.0mL): tea(60.0mL), water(40.0mL) with Orange
+Green Tea (100.0mL): tea(60.0mL), water(40.0mL)
+Green Tea (100.0mL): tea(60.0mL), water(40.0mL) with Strawberry, Chocolate
+
+Tea Menu
+1) Green Tea (100.0mL): tea(60.0mL), water(40.0mL) with Strawberry, Chocolate
+2) Red Tea (150.0mL): tea(120.0mL), water(30.0mL)
+Special Ingredient: Strawberry, Chocolate
+
+All Menu
+----------------------------------------------------------------------------------
+Coffee Menu
+1) Latte (60.0mL): coffee(30.0mL), water(30.0mL)
+Special Ingredient:
+----------------------------------------------------------------------------------
+Smoothie Menu
+1) Banana Smoothie (200.0mL): fruit(180.0mL), water(20.0mL)
+Special Ingredient:
+----------------------------------------------------------------------------------
+Tea Menu
+1) Green Tea (100.0mL): tea(60.0mL), water(40.0mL) with Strawberry, Chocolate
+2) Red Tea (150.0mL): tea(120.0mL), water(30.0mL)
+Special Ingredient: Strawberry, Chocolate
+----------------------------------------------------------------------------------
+Total Price: 280
